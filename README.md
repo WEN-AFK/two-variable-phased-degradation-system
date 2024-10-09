@@ -7,5 +7,7 @@ The XJ data folder contains the Xi'an Jiaotong University data experiment codes.
 
 Estimated parameters and computed PDF code run on matlabR2020b,win10.
 
+Copula function files require the VineCopulaMatlab toolbox to be installed.
+
 In this paper, Matlab 2014a was the platform employed. VineCopulaMatlab, a Copula toolbox made
 available by Malte Kurz, is utilized. Visit https://maltekurz.github.io/VineCopulaMatlab for further details.
